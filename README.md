@@ -16,6 +16,7 @@ I like exploring new technologies 💻 and building cool things 🛠️.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/alvarogomessilva/)
 
 <br>
+
 ### 💻 Languages and Tools:
 
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
