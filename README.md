@@ -34,8 +34,6 @@ I like exploring new technologies 💻 and building cool things 🛠️.
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='36px'/> </a>
 
-<a href="https://firebase.google.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="36px"/> </a>
-
 <a href="https://firebase.google.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="firebase" height ="36px"/></a>
 
 
