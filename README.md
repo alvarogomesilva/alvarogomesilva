@@ -19,7 +19,7 @@ I like exploring new technologies 💻 and building cool things 🛠️.
 
 ### 💻 Languages and Tools:
 
-
+<div align="center">
 <table align="center">
   <tr align="center">
     <td align="center" width="96">
@@ -80,3 +80,4 @@ I like exploring new technologies 💻 and building cool things 🛠️.
     </td>
   </tr>
 </table>
+</div>
