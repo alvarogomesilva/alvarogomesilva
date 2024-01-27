@@ -45,20 +45,20 @@ I like exploring new technologies 💻 and building cool things 🛠️.
       </a>
       <br>TypeScript
     </td>
-     <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
-      </a>
-      <br>Node
-    </td>
     <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
-      <br>React
+      <br>React/Native
     </td>
   </tr>
   <tr align="center">
+      <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="mysql" />
+      </a>
+      <br>Sass
+    </td>
     <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
@@ -78,7 +78,12 @@ I like exploring new technologies 💻 and building cool things 🛠️.
       </a>
       <br>MySql
     </td>
-
+     <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
+      </a>
+      <br>Node JS
+    </td>
   </tr>
 </table>
 
