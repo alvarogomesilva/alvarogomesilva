@@ -19,20 +19,13 @@ I like exploring new technologies 💻 and building cool things 🛠️.
 
 ### 💻 Languages and Tools:
 
-<div align="center">
 <table align="center">
   <tr align="center">
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
       </a>
-      <br>React
-    </td>
-     <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
-      </a>
-      <br>Node
+      <br>HTML
     </td>
   <td align="center" width="96">
       <a>
@@ -42,24 +35,37 @@ I like exploring new technologies 💻 and building cool things 🛠️.
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
       </a>
-      <br>Javascript
+      <br>JavaScript
     </td>
-  </tr>
-  <tr align="center">
    <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="typescript" />
       </a>
-      <br>Typescript
+      <br>TypeScript
     </td>
+     <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
+      </a>
+      <br>Node
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+  </tr>
+  <tr align="center">
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
+      </a>
+      <br>Git
+    </td>
+
   <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="firebase" />
@@ -70,14 +76,9 @@ I like exploring new technologies 💻 and building cool things 🛠️.
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
       </a>
-      <br>Mysql
+      <br>MySql
     </td>
-  <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
-      </a>
-      <br>Git
-    </td>
+
   </tr>
 </table>
-</div>
+
