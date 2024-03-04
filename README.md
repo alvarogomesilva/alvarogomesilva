@@ -6,7 +6,7 @@
 I like exploring new technologies 💻 and building cool things 🛠️. 
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/alvarogomesilva/alvarogomesilva/assets/113359747/9416864f-9ae7-4d56-9b5c-325b88e93079" width="150px"/>
+<img align="right" alt="GIF" src="https://github.com/alvarogomesilva/alvarogomesilva/assets/113359747/9416864f-9ae7-4d56-9b5c-325b88e93079" width="200px"/>
 
 ### 🧐 More About Me:
 
