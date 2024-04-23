@@ -19,71 +19,11 @@ I like exploring new technologies 💻 and building cool things 🛠️.
 
 ### 💻 Languages and Tools:
 
-<table align="center">
-  <tr align="center">
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-  <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
-      </a>
-      <br>JavaScript
-    </td>
-   <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="typescript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React/Native
-    </td>
-  </tr>
-  <tr align="center">
-      <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="mysql" />
-      </a>
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
-      </a>
-      <br>Git
-    </td>
+<br>
 
-  <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="firebase" />
-      </a>
-      <br>Firebase
-    </td>
-  <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
-      </a>
-      <br>MySql
-    </td>
-     <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
-      </a>
-      <br>Node JS
-    </td>
-  </tr>
-</table>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
