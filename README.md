@@ -22,9 +22,9 @@ I like exploring new technologies 💻 and building cool things 🛠️.
 <br>
 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="TailwindCSS" height ="30px"  src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="TailwindCSS" height ="30px"  src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="TailwindCSS" height ="30px"  src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png"> </a>
+
+
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="30px"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="30px" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png"></a>
@@ -34,7 +34,6 @@ I like exploring new technologies 💻 and building cool things 🛠️.
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="NestJs" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" align="left" alt="git" height='30px'/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" height ="30px"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" alt="firebase" height ="30px"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="firebase" height ="30px"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="firebase" height ="30px"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="firebase" height ="30px"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="firebase" height ="30px"/> </a>
+
+
