@@ -21,19 +21,11 @@ I like exploring new technologies 💻 and building cool things 🛠️.
 
 <br>
 
-
-
-
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="30px"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="30px" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="NestJs" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" align="left" alt="git" height='30px'/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" height ="30px"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="firebase" height ="30px"/> </a>
+<a href="https://nestjs.com/" target="_blank"><img align="left" alt="NestJs" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></a>
 
 
