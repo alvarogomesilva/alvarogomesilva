@@ -23,9 +23,11 @@ I like exploring new technologies 💻 and building cool things 🛠️.
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="30px"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>
+<a href="https://react.dev/" target="_blank"><img align="left" alt="PostgreSQL" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></a>
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="PostgreSQL" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" align="left" alt="git" height='30px'/> </a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>
 <a href="https://nestjs.com/" target="_blank"><img align="left" alt="NestJs" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"></a>
-<a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></a>
+
 
 
