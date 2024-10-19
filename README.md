@@ -6,7 +6,7 @@
 I like exploring new technologies 💻 and building cool things 🛠️. 
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/ca2995ab-cac9-4559-81f2-c28cdb4024d5" width="400px"/>
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/ca2995ab-cac9-4559-81f2-c28cdb4024d5" width="300px"/>
 
 ### 🧐 More About Me:
 
