@@ -11,7 +11,7 @@ I like exploring new technologies 💻 and building cool things 🛠️.
 ### 🧐 More About Me:
 
 - 🌱 &nbsp; I’m currently learning NodeJS; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/alvarogomesilva?tab=repositories))
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/alvarogomesilva?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/alvarogomessilva/)
 
 <br>
