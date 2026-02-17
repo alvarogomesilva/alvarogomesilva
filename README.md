@@ -26,8 +26,6 @@ I like exploring new technologies 💻 and building cool things 🛠️.
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" align="left" alt="git" height='30px'/> </a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>
 <a href="https://nestjs.com/" target="_blank"><img align="left" alt="NestJs" height ="30px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"></a>
-<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="35px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"></a>
-
 
 
 
